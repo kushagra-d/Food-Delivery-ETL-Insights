@@ -1,0 +1,401 @@
+restaurant_id,name,city,cuisines,avg_cost_for_two,onboarded_on,primary_cuisine,price_tier,lat,lon
+R0001,Restaurant 1,Bengaluru,Continental,690.0,2022-03-19,Continental,Mid,12.972,77.594
+R0002,Restaurant 2,Pune,"South Indian, North Indian, Biryani",489.0,2023-11-17,South Indian,Mid,18.52,73.856
+R0003,Restaurant 3,Chennai,"Cafe, Fast Food, Italian",818.0,2023-05-06,Cafe,Premium,13.083,80.27
+R0004,Restaurant 4,Mumbai,"Chinese, Fast Food",731.0,2023-05-15,Chinese,Mid,19.076,72.878
+R0005,Restaurant 5,Pune,Desserts,362.0,2022-03-03,Desserts,Mid,18.52,73.856
+R0006,Restaurant 6,Bengaluru,"Italian, Mexican, Desserts",580.0,2022-06-25,Italian,Mid,12.972,77.594
+R0007,Restaurant 7,Pune,"South Indian, Continental",410.0,2023-01-05,South Indian,Mid,18.52,73.856
+R0008,Restaurant 8,Bengaluru,Cafe,818.0,2022-11-30,Cafe,Premium,12.972,77.594
+R0009,Restaurant 9,Delhi,"Desserts, South Indian",660.0,2024-04-26,Desserts,Mid,28.614,77.209
+R0010,Restaurant 10,Delhi,"South Indian, Mexican",365.0,2023-09-23,South Indian,Mid,28.614,77.209
+R0011,Restaurant 11,Delhi,"Mexican, Continental",729.0,2023-07-28,Mexican,Mid,28.614,77.209
+R0012,Restaurant 12,Mumbai,Mexican,561.0,2022-06-29,Mexican,Mid,19.076,72.878
+R0013,Restaurant 13,Bengaluru,"Continental, Fast Food, Biryani",369.0,2022-02-03,Continental,Mid,12.972,77.594
+R0014,Restaurant 14,Chennai,Chinese,761.0,2022-04-14,Chinese,Mid,13.083,80.27
+R0015,Restaurant 15,Hyderabad,"Fast Food, Continental, North Indian",678.0,2023-12-17,Fast Food,Mid,17.385,78.487
+R0016,Restaurant 16,Bengaluru,Desserts,724.0,2022-01-28,Desserts,Mid,12.972,77.594
+R0017,Restaurant 17,Kolkata,Fast Food,295.0,2024-01-10,Fast Food,Budget,22.573,88.364
+R0018,Restaurant 18,Delhi,Mexican,672.0,2022-09-11,Mexican,Mid,28.614,77.209
+R0019,Restaurant 19,Pune,Biryani,652.0,2023-01-04,Biryani,Mid,18.52,73.856
+R0020,Restaurant 20,Mumbai,"Mexican, Italian",414.0,2022-05-31,Mexican,Mid,19.076,72.878
+R0021,Restaurant 21,Bengaluru,"Desserts, Biryani, Fast Food",611.0,2023-03-24,Desserts,Mid,12.972,77.594
+R0022,Restaurant 22,Hyderabad,"South Indian, Italian, Fast Food",230.0,2022-09-29,South Indian,Budget,17.385,78.487
+R0023,Restaurant 23,Kolkata,"North Indian, South Indian, Italian",327.0,2023-02-16,North Indian,Mid,22.573,88.364
+R0024,Restaurant 24,Pune,Continental,686.0,2024-05-22,Continental,Mid,18.52,73.856
+R0025,Restaurant 25,Kolkata,"Desserts, Chinese, Italian",719.0,2023-09-26,Desserts,Mid,22.573,88.364
+R0026,Restaurant 26,Hyderabad,Continental,377.0,2022-10-03,Continental,Mid,17.385,78.487
+R0027,Restaurant 27,Chennai,"Continental, North Indian",547.0,2022-10-05,Continental,Mid,13.083,80.27
+R0028,Restaurant 28,Mumbai,"Biryani, South Indian",534.0,2023-08-08,Biryani,Mid,19.076,72.878
+R0029,Restaurant 29,Mumbai,"South Indian, Fast Food, North Indian",534.0,2022-06-07,South Indian,Mid,19.076,72.878
+R0030,Restaurant 30,Hyderabad,"South Indian, Continental",265.0,2024-04-12,South Indian,Budget,17.385,78.487
+R0031,Restaurant 31,Ahmedabad,"Chinese, Biryani",311.0,2023-02-25,Chinese,Mid,23.023,72.572
+R0032,Restaurant 32,Ahmedabad,"North Indian, Chinese, Mexican",315.0,2023-03-18,North Indian,Mid,23.023,72.572
+R0033,Restaurant 33,Delhi,"Mexican, Fast Food",408.0,2024-02-04,Mexican,Mid,28.614,77.209
+R0034,Restaurant 34,Kolkata,"North Indian, Chinese",458.0,2024-01-14,North Indian,Mid,22.573,88.364
+R0035,Restaurant 35,Mumbai,Biryani,395.0,2022-04-17,Biryani,Mid,19.076,72.878
+R0036,Restaurant 36,Chennai,Chinese,522.0,2023-08-17,Chinese,Mid,13.083,80.27
+R0037,Restaurant 37,Kolkata,South Indian,289.0,2022-08-01,South Indian,Budget,22.573,88.364
+R0038,Restaurant 38,Bengaluru,South Indian,340.0,2023-05-15,South Indian,Mid,12.972,77.594
+R0039,Restaurant 39,Ahmedabad,"Cafe, Continental",585.0,2023-07-14,Cafe,Mid,23.023,72.572
+R0040,Restaurant 40,Mumbai,"Mexican, Chinese",401.0,2024-04-22,Mexican,Mid,19.076,72.878
+R0041,Restaurant 41,Ahmedabad,Fast Food,532.0,2022-03-23,Fast Food,Mid,23.023,72.572
+R0042,Restaurant 42,Delhi,"Mexican, Desserts, Chinese",543.0,2023-04-12,Mexican,Mid,28.614,77.209
+R0043,Restaurant 43,Mumbai,"Fast Food, Biryani",983.0,2022-12-08,Fast Food,Premium,19.076,72.878
+R0044,Restaurant 44,Delhi,North Indian,1035.0,2024-04-23,North Indian,Premium,28.614,77.209
+R0045,Restaurant 45,Mumbai,Mexican,414.0,2022-11-27,Mexican,Mid,19.076,72.878
+R0046,Restaurant 46,Delhi,"Mexican, Desserts",658.0,2022-06-26,Mexican,Mid,28.614,77.209
+R0047,Restaurant 47,Bengaluru,Cafe,457.0,2024-04-20,Cafe,Mid,12.972,77.594
+R0048,Restaurant 48,Mumbai,South Indian,658.0,2022-07-26,South Indian,Mid,19.076,72.878
+R0049,Restaurant 49,Hyderabad,"North Indian, Chinese, Biryani",331.0,2024-02-17,North Indian,Mid,17.385,78.487
+R0050,Restaurant 50,Mumbai,"North Indian, Desserts, Cafe",613.0,2022-04-28,North Indian,Mid,19.076,72.878
+R0051,Restaurant 51,Delhi,Italian,773.0,2023-04-03,Italian,Mid,28.614,77.209
+R0052,Restaurant 52,Kolkata,"Chinese, Cafe",445.0,2022-09-15,Chinese,Mid,22.573,88.364
+R0053,Restaurant 53,Mumbai,"Fast Food, South Indian",513.0,2023-11-05,Fast Food,Mid,19.076,72.878
+R0054,Restaurant 54,Ahmedabad,"Cafe, North Indian",432.0,2023-06-21,Cafe,Mid,23.023,72.572
+R0055,Restaurant 55,Mumbai,"Fast Food, Desserts",847.0,2022-09-17,Fast Food,Premium,19.076,72.878
+R0056,Restaurant 56,Hyderabad,"Continental, Fast Food, Chinese",388.0,2023-04-23,Continental,Mid,17.385,78.487
+R0057,Restaurant 57,Bengaluru,Italian,472.0,2024-05-16,Italian,Mid,12.972,77.594
+R0058,Restaurant 58,Pune,"Fast Food, Biryani, Chinese",1126.0,2022-08-01,Fast Food,Premium,18.52,73.856
+R0059,Restaurant 59,Mumbai,"North Indian, Cafe, Continental",1072.0,2022-10-14,North Indian,Premium,19.076,72.878
+R0060,Restaurant 60,Kolkata,Cafe,599.0,2022-05-10,Cafe,Mid,22.573,88.364
+R0061,Restaurant 61,Mumbai,Chinese,534.0,2023-05-02,Chinese,Mid,19.076,72.878
+R0062,Restaurant 62,Mumbai,Continental,383.0,2022-02-19,Continental,Mid,19.076,72.878
+R0063,Restaurant 63,Bengaluru,"Biryani, Cafe",577.0,2024-06-04,Biryani,Mid,12.972,77.594
+R0064,Restaurant 64,Mumbai,"Desserts, Mexican",471.0,2024-02-06,Desserts,Mid,19.076,72.878
+R0065,Restaurant 65,Hyderabad,Chinese,586.0,2022-09-12,Chinese,Mid,17.385,78.487
+R0066,Restaurant 66,Hyderabad,North Indian,298.0,2022-12-03,North Indian,Budget,17.385,78.487
+R0067,Restaurant 67,Mumbai,Mexican,611.0,2023-09-13,Mexican,Mid,19.076,72.878
+R0068,Restaurant 68,Kolkata,Mexican,298.0,2024-01-30,Mexican,Budget,22.573,88.364
+R0069,Restaurant 69,Pune,Mexican,504.0,2023-07-09,Mexican,Mid,18.52,73.856
+R0070,Restaurant 70,Kolkata,"Mexican, Biryani, South Indian",155.0,2023-04-08,Mexican,Budget,22.573,88.364
+R0071,Restaurant 71,Mumbai,"Desserts, Cafe, Italian",223.0,2022-05-29,Desserts,Budget,19.076,72.878
+R0072,Restaurant 72,Bengaluru,"Chinese, Biryani",425.0,2022-11-27,Chinese,Mid,12.972,77.594
+R0073,Restaurant 73,Delhi,"Italian, South Indian",884.0,2023-08-27,Italian,Premium,28.614,77.209
+R0074,Restaurant 74,Kolkata,"Fast Food, Continental, Desserts",600.0,2023-04-27,Fast Food,Mid,22.573,88.364
+R0075,Restaurant 75,Hyderabad,Mexican,507.0,2022-03-07,Mexican,Mid,17.385,78.487
+R0076,Restaurant 76,Delhi,South Indian,700.0,2023-10-24,South Indian,Mid,28.614,77.209
+R0077,Restaurant 77,Hyderabad,"Cafe, Continental",690.0,2023-07-14,Cafe,Mid,17.385,78.487
+R0078,Restaurant 78,Ahmedabad,"Fast Food, North Indian, Biryani",390.0,2022-05-04,Fast Food,Mid,23.023,72.572
+R0079,Restaurant 79,Pune,"Biryani, Fast Food",312.0,2022-03-23,Biryani,Mid,18.52,73.856
+R0080,Restaurant 80,Mumbai,Continental,567.0,2023-06-16,Continental,Mid,19.076,72.878
+R0081,Restaurant 81,Hyderabad,Biryani,175.0,2023-09-04,Biryani,Budget,17.385,78.487
+R0082,Restaurant 82,Bengaluru,"Desserts, Continental",194.0,2023-12-21,Desserts,Budget,12.972,77.594
+R0083,Restaurant 83,Mumbai,Cafe,241.0,2023-10-12,Cafe,Budget,19.076,72.878
+R0084,Restaurant 84,Bengaluru,Fast Food,381.0,2023-08-16,Fast Food,Mid,12.972,77.594
+R0085,Restaurant 85,Delhi,Desserts,547.0,2024-01-06,Desserts,Mid,28.614,77.209
+R0086,Restaurant 86,Mumbai,"Biryani, Continental, Chinese",585.0,2022-10-10,Biryani,Mid,19.076,72.878
+R0087,Restaurant 87,Bengaluru,Cafe,465.0,2022-04-26,Cafe,Mid,12.972,77.594
+R0088,Restaurant 88,Bengaluru,"Fast Food, South Indian, Cafe",495.0,2023-12-04,Fast Food,Mid,12.972,77.594
+R0089,Restaurant 89,Ahmedabad,"Mexican, North Indian",632.0,2022-09-01,Mexican,Mid,23.023,72.572
+R0090,Restaurant 90,Chennai,"Biryani, South Indian, Continental",535.0,2023-06-14,Biryani,Mid,13.083,80.27
+R0091,Restaurant 91,Pune,Fast Food,280.0,2024-05-21,Fast Food,Budget,18.52,73.856
+R0092,Restaurant 92,Kolkata,"Fast Food, Chinese",557.0,2022-09-29,Fast Food,Mid,22.573,88.364
+R0093,Restaurant 93,Kolkata,"North Indian, Italian",398.0,2023-12-02,North Indian,Mid,22.573,88.364
+R0094,Restaurant 94,Chennai,"Mexican, North Indian, Desserts",693.0,2023-08-23,Mexican,Mid,13.083,80.27
+R0095,Restaurant 95,Mumbai,"Mexican, North Indian, Continental",538.0,2023-12-29,Mexican,Mid,19.076,72.878
+R0096,Restaurant 96,Chennai,North Indian,437.0,2024-03-30,North Indian,Mid,13.083,80.27
+R0097,Restaurant 97,Mumbai,North Indian,200.0,2024-06-01,North Indian,Budget,19.076,72.878
+R0098,Restaurant 98,Pune,"Chinese, Continental, Cafe",433.0,2022-02-21,Chinese,Mid,18.52,73.856
+R0099,Restaurant 99,Chennai,Continental,895.0,2023-02-06,Continental,Premium,13.083,80.27
+R0100,Restaurant 100,Mumbai,Fast Food,471.0,2022-07-01,Fast Food,Mid,19.076,72.878
+R0101,Restaurant 101,Kolkata,"Desserts, Biryani",377.0,2024-01-02,Desserts,Mid,22.573,88.364
+R0102,Restaurant 102,Ahmedabad,"South Indian, Cafe, North Indian",264.0,2023-10-01,South Indian,Budget,23.023,72.572
+R0103,Restaurant 103,Mumbai,"North Indian, Cafe",464.0,2023-02-18,North Indian,Mid,19.076,72.878
+R0104,Restaurant 104,Ahmedabad,"Cafe, South Indian, Italian",367.0,2022-06-15,Cafe,Mid,23.023,72.572
+R0105,Restaurant 105,Hyderabad,"Continental, Chinese",579.0,2022-08-12,Continental,Mid,17.385,78.487
+R0106,Restaurant 106,Chennai,"Fast Food, Cafe, Chinese",813.0,2023-09-22,Fast Food,Premium,13.083,80.27
+R0107,Restaurant 107,Bengaluru,South Indian,576.0,2024-04-02,South Indian,Mid,12.972,77.594
+R0108,Restaurant 108,Delhi,"South Indian, Cafe",799.0,2022-05-01,South Indian,Mid,28.614,77.209
+R0109,Restaurant 109,Chennai,"Italian, Continental",567.0,2022-05-19,Italian,Mid,13.083,80.27
+R0110,Restaurant 110,Delhi,"Continental, Chinese",400.0,2023-06-14,Continental,Mid,28.614,77.209
+R0111,Restaurant 111,Bengaluru,Fast Food,810.0,2022-03-27,Fast Food,Premium,12.972,77.594
+R0112,Restaurant 112,Chennai,"Italian, Biryani",535.0,2023-09-24,Italian,Mid,13.083,80.27
+R0113,Restaurant 113,Hyderabad,"Chinese, Cafe",294.0,2023-04-22,Chinese,Budget,17.385,78.487
+R0114,Restaurant 114,Chennai,"Fast Food, Italian",513.0,2023-04-07,Fast Food,Mid,13.083,80.27
+R0115,Restaurant 115,Bengaluru,Cafe,456.0,2022-08-30,Cafe,Mid,12.972,77.594
+R0116,Restaurant 116,Mumbai,"Chinese, South Indian, Biryani",664.0,2023-03-21,Chinese,Mid,19.076,72.878
+R0117,Restaurant 117,Delhi,"Continental, North Indian, Desserts",428.0,2023-10-20,Continental,Mid,28.614,77.209
+R0118,Restaurant 118,Mumbai,North Indian,201.0,2023-10-31,North Indian,Budget,19.076,72.878
+R0119,Restaurant 119,Hyderabad,"Italian, Desserts, Cafe",250.0,2023-04-03,Italian,Budget,17.385,78.487
+R0120,Restaurant 120,Pune,"Cafe, Fast Food",383.0,2024-06-14,Cafe,Mid,18.52,73.856
+R0121,Restaurant 121,Chennai,"South Indian, Biryani, Continental",474.0,2023-08-31,South Indian,Mid,13.083,80.27
+R0122,Restaurant 122,Mumbai,Continental,361.0,2023-04-18,Continental,Mid,19.076,72.878
+R0123,Restaurant 123,Hyderabad,"Continental, Cafe",330.0,2023-12-23,Continental,Mid,17.385,78.487
+R0124,Restaurant 124,Mumbai,"Biryani, Cafe, South Indian",522.0,2022-12-20,Biryani,Mid,19.076,72.878
+R0125,Restaurant 125,Bengaluru,Fast Food,418.0,2022-10-03,Fast Food,Mid,12.972,77.594
+R0126,Restaurant 126,Mumbai,Chinese,243.0,2024-03-27,Chinese,Budget,19.076,72.878
+R0127,Restaurant 127,Bengaluru,Chinese,825.0,2023-10-13,Chinese,Premium,12.972,77.594
+R0128,Restaurant 128,Kolkata,"Cafe, North Indian",550.0,2022-08-08,Cafe,Mid,22.573,88.364
+R0129,Restaurant 129,Pune,"Biryani, Fast Food",539.0,2023-10-15,Biryani,Mid,18.52,73.856
+R0130,Restaurant 130,Kolkata,"Desserts, Biryani",632.0,2022-11-01,Desserts,Mid,22.573,88.364
+R0131,Restaurant 131,Bengaluru,"Desserts, Cafe",429.0,2022-10-02,Desserts,Mid,12.972,77.594
+R0132,Restaurant 132,Bengaluru,"Mexican, South Indian",391.0,2022-11-03,Mexican,Mid,12.972,77.594
+R0133,Restaurant 133,Kolkata,"Cafe, North Indian",504.0,2022-12-19,Cafe,Mid,22.573,88.364
+R0134,Restaurant 134,Delhi,North Indian,458.0,2022-11-01,North Indian,Mid,28.614,77.209
+R0135,Restaurant 135,Delhi,"Desserts, Mexican",256.0,2023-05-25,Desserts,Budget,28.614,77.209
+R0136,Restaurant 136,Chennai,Fast Food,536.0,2022-09-08,Fast Food,Mid,13.083,80.27
+R0137,Restaurant 137,Pune,"Mexican, Continental, Desserts",580.0,2023-04-09,Mexican,Mid,18.52,73.856
+R0138,Restaurant 138,Mumbai,"Mexican, Chinese, Desserts",1210.0,2024-02-20,Mexican,Premium,19.076,72.878
+R0139,Restaurant 139,Ahmedabad,"Italian, Biryani, Cafe",284.0,2022-05-19,Italian,Budget,23.023,72.572
+R0140,Restaurant 140,Pune,Mexican,407.0,2023-10-23,Mexican,Mid,18.52,73.856
+R0141,Restaurant 141,Mumbai,South Indian,407.0,2024-05-16,South Indian,Mid,19.076,72.878
+R0142,Restaurant 142,Ahmedabad,"Continental, Cafe",621.0,2023-02-23,Continental,Mid,23.023,72.572
+R0143,Restaurant 143,Mumbai,Continental,371.0,2023-05-02,Continental,Mid,19.076,72.878
+R0144,Restaurant 144,Bengaluru,"Mexican, Chinese, Fast Food",627.0,2022-02-03,Mexican,Mid,12.972,77.594
+R0145,Restaurant 145,Chennai,"North Indian, Cafe",602.0,2022-01-08,North Indian,Mid,13.083,80.27
+R0146,Restaurant 146,Delhi,"Desserts, Biryani, Italian",946.0,2022-02-14,Desserts,Premium,28.614,77.209
+R0147,Restaurant 147,Mumbai,Mexican,556.0,2022-08-25,Mexican,Mid,19.076,72.878
+R0148,Restaurant 148,Chennai,"Fast Food, Continental, North Indian",308.0,2024-03-17,Fast Food,Mid,13.083,80.27
+R0149,Restaurant 149,Kolkata,"Biryani, Continental",410.0,2023-10-01,Biryani,Mid,22.573,88.364
+R0150,Restaurant 150,Kolkata,"Italian, Fast Food",298.0,2022-09-05,Italian,Budget,22.573,88.364
+R0151,Restaurant 151,Pune,"North Indian, Italian, Desserts",1241.0,2023-07-29,North Indian,Premium,18.52,73.856
+R0152,Restaurant 152,Mumbai,Continental,534.0,2023-01-03,Continental,Mid,19.076,72.878
+R0153,Restaurant 153,Chennai,Cafe,226.0,2022-02-24,Cafe,Budget,13.083,80.27
+R0154,Restaurant 154,Mumbai,"Cafe, Fast Food",1043.0,2023-03-24,Cafe,Premium,19.076,72.878
+R0155,Restaurant 155,Delhi,North Indian,568.0,2022-09-29,North Indian,Mid,28.614,77.209
+R0156,Restaurant 156,Bengaluru,"Mexican, Desserts",230.0,2022-11-05,Mexican,Budget,12.972,77.594
+R0157,Restaurant 157,Kolkata,"Fast Food, Desserts, Biryani",228.0,2023-05-20,Fast Food,Budget,22.573,88.364
+R0158,Restaurant 158,Hyderabad,Mexican,155.0,2024-03-29,Mexican,Budget,17.385,78.487
+R0159,Restaurant 159,Chennai,Biryani,357.0,2024-02-09,Biryani,Mid,13.083,80.27
+R0160,Restaurant 160,Mumbai,Chinese,1439.0,2022-10-18,Chinese,Premium,19.076,72.878
+R0161,Restaurant 161,Pune,Biryani,457.0,2023-07-26,Biryani,Mid,18.52,73.856
+R0162,Restaurant 162,Chennai,"Continental, Fast Food",405.0,2024-06-14,Continental,Mid,13.083,80.27
+R0163,Restaurant 163,Mumbai,"South Indian, Cafe",400.0,2022-10-15,South Indian,Mid,19.076,72.878
+R0164,Restaurant 164,Ahmedabad,"Cafe, Desserts, Fast Food",339.0,2022-02-02,Cafe,Mid,23.023,72.572
+R0165,Restaurant 165,Delhi,North Indian,319.0,2024-06-05,North Indian,Mid,28.614,77.209
+R0166,Restaurant 166,Mumbai,"Chinese, Biryani",309.0,2022-10-09,Chinese,Mid,19.076,72.878
+R0167,Restaurant 167,Chennai,"Continental, Italian",327.0,2024-05-29,Continental,Mid,13.083,80.27
+R0168,Restaurant 168,Bengaluru,Fast Food,489.0,2022-12-21,Fast Food,Mid,12.972,77.594
+R0169,Restaurant 169,Kolkata,South Indian,490.0,2022-04-10,South Indian,Mid,22.573,88.364
+R0170,Restaurant 170,Bengaluru,"Fast Food, Chinese",420.0,2022-10-27,Fast Food,Mid,12.972,77.594
+R0171,Restaurant 171,Delhi,"Biryani, Continental",176.0,2024-04-02,Biryani,Budget,28.614,77.209
+R0172,Restaurant 172,Delhi,"Desserts, Continental",695.0,2022-07-25,Desserts,Mid,28.614,77.209
+R0173,Restaurant 173,Chennai,"Fast Food, North Indian",505.0,2023-06-28,Fast Food,Mid,13.083,80.27
+R0174,Restaurant 174,Kolkata,Italian,529.0,2022-05-05,Italian,Mid,22.573,88.364
+R0175,Restaurant 175,Hyderabad,"Continental, North Indian, South Indian",393.5,2022-03-21,Continental,Mid,17.385,78.487
+R0176,Restaurant 176,Mumbai,"Chinese, Biryani",749.0,2024-02-04,Chinese,Mid,19.076,72.878
+R0177,Restaurant 177,Pune,"Fast Food, Biryani",329.0,2022-09-20,Fast Food,Mid,18.52,73.856
+R0178,Restaurant 178,Bengaluru,Chinese,1238.0,2024-04-06,Chinese,Premium,12.972,77.594
+R0179,Restaurant 179,Delhi,"Continental, North Indian, Italian",657.0,2022-04-12,Continental,Mid,28.614,77.209
+R0180,Restaurant 180,Delhi,"Chinese, Cafe",541.0,2023-01-08,Chinese,Mid,28.614,77.209
+R0181,Restaurant 181,Mumbai,"Italian, North Indian, Desserts",277.0,2024-01-31,Italian,Budget,19.076,72.878
+R0182,Restaurant 182,Hyderabad,"Desserts, Mexican, Chinese",495.0,2024-03-12,Desserts,Mid,17.385,78.487
+R0183,Restaurant 183,Bengaluru,"Desserts, Cafe, South Indian",274.0,2022-08-27,Desserts,Budget,12.972,77.594
+R0184,Restaurant 184,Ahmedabad,Cafe,736.0,2022-01-15,Cafe,Mid,23.023,72.572
+R0185,Restaurant 185,Kolkata,"South Indian, Biryani",449.0,2022-05-29,South Indian,Mid,22.573,88.364
+R0186,Restaurant 186,Hyderabad,"South Indian, Chinese",620.0,2022-02-15,South Indian,Mid,17.385,78.487
+R0187,Restaurant 187,Mumbai,"Biryani, Cafe",771.0,2022-05-21,Biryani,Mid,19.076,72.878
+R0188,Restaurant 188,Delhi,Mexican,336.0,2024-02-26,Mexican,Mid,28.614,77.209
+R0189,Restaurant 189,Bengaluru,Biryani,584.0,2023-04-25,Biryani,Mid,12.972,77.594
+R0190,Restaurant 190,Bengaluru,"Desserts, Biryani, Chinese",543.0,2024-06-04,Desserts,Mid,12.972,77.594
+R0191,Restaurant 191,Bengaluru,"North Indian, Continental, Mexican",371.0,2023-11-26,North Indian,Mid,12.972,77.594
+R0192,Restaurant 192,Ahmedabad,"Italian, Biryani, South Indian",396.0,2022-05-15,Italian,Mid,23.023,72.572
+R0193,Restaurant 193,Delhi,"South Indian, Mexican, Cafe",190.0,2024-03-02,South Indian,Budget,28.614,77.209
+R0194,Restaurant 194,Pune,"Desserts, Biryani, Continental",150.0,2023-04-11,Desserts,Budget,18.52,73.856
+R0195,Restaurant 195,Mumbai,"Continental, Cafe",415.0,2023-09-22,Continental,Mid,19.076,72.878
+R0196,Restaurant 196,Pune,"Continental, Biryani, Desserts",423.0,2022-07-03,Continental,Mid,18.52,73.856
+R0197,Restaurant 197,Bengaluru,Cafe,1084.0,2024-04-18,Cafe,Premium,12.972,77.594
+R0198,Restaurant 198,Hyderabad,"Italian, Desserts, Biryani",358.0,2023-07-02,Italian,Mid,17.385,78.487
+R0199,Restaurant 199,Ahmedabad,Desserts,395.0,2022-03-02,Desserts,Mid,23.023,72.572
+R0200,Restaurant 200,Bengaluru,Italian,495.0,2022-12-06,Italian,Mid,12.972,77.594
+R0201,Restaurant 201,Chennai,South Indian,206.0,2022-01-22,South Indian,Budget,13.083,80.27
+R0202,Restaurant 202,Kolkata,"Chinese, South Indian, Biryani",360.0,2023-11-10,Chinese,Mid,22.573,88.364
+R0203,Restaurant 203,Hyderabad,"Cafe, South Indian",393.5,2023-02-14,Cafe,Mid,17.385,78.487
+R0204,Restaurant 204,Bengaluru,South Indian,682.0,2022-02-10,South Indian,Mid,12.972,77.594
+R0205,Restaurant 205,Bengaluru,Desserts,204.0,2022-07-30,Desserts,Budget,12.972,77.594
+R0206,Restaurant 206,Pune,South Indian,486.0,2022-09-23,South Indian,Mid,18.52,73.856
+R0207,Restaurant 207,Ahmedabad,"Continental, Cafe, North Indian",301.0,2023-01-05,Continental,Mid,23.023,72.572
+R0208,Restaurant 208,Hyderabad,Cafe,159.0,2022-10-02,Cafe,Budget,17.385,78.487
+R0209,Restaurant 209,Mumbai,"Desserts, Cafe, Mexican",501.0,2023-02-13,Desserts,Mid,19.076,72.878
+R0210,Restaurant 210,Hyderabad,South Indian,334.0,2024-02-06,South Indian,Mid,17.385,78.487
+R0211,Restaurant 211,Pune,"Continental, Chinese, Italian",461.0,2022-02-08,Continental,Mid,18.52,73.856
+R0212,Restaurant 212,Mumbai,Desserts,445.0,2024-04-27,Desserts,Mid,19.076,72.878
+R0213,Restaurant 213,Delhi,"Chinese, Italian, North Indian",589.0,2022-02-25,Chinese,Mid,28.614,77.209
+R0214,Restaurant 214,Kolkata,"South Indian, Chinese",940.0,2023-10-02,South Indian,Premium,22.573,88.364
+R0215,Restaurant 215,Delhi,"Continental, Fast Food",427.0,2022-02-02,Continental,Mid,28.614,77.209
+R0216,Restaurant 216,Bengaluru,"Continental, North Indian, Cafe",456.0,2023-04-11,Continental,Mid,12.972,77.594
+R0217,Restaurant 217,Mumbai,"Mexican, Fast Food",494.0,2022-06-14,Mexican,Mid,19.076,72.878
+R0218,Restaurant 218,Hyderabad,"Fast Food, North Indian, Mexican",293.0,2022-05-28,Fast Food,Budget,17.385,78.487
+R0219,Restaurant 219,Mumbai,Chinese,727.0,2022-05-22,Chinese,Mid,19.076,72.878
+R0220,Restaurant 220,Bengaluru,"Cafe, North Indian, Chinese",419.0,2023-02-23,Cafe,Mid,12.972,77.594
+R0221,Restaurant 221,Pune,"South Indian, Mexican",150.0,2022-11-30,South Indian,Budget,18.52,73.856
+R0222,Restaurant 222,Delhi,"Continental, South Indian",357.0,2024-04-08,Continental,Mid,28.614,77.209
+R0223,Restaurant 223,Pune,"Chinese, Continental, North Indian",592.0,2024-01-15,Chinese,Mid,18.52,73.856
+R0224,Restaurant 224,Bengaluru,Chinese,469.0,2024-04-11,Chinese,Mid,12.972,77.594
+R0225,Restaurant 225,Mumbai,"Fast Food, Cafe, North Indian",746.0,2023-12-20,Fast Food,Mid,19.076,72.878
+R0226,Restaurant 226,Hyderabad,Fast Food,544.0,2022-05-18,Fast Food,Mid,17.385,78.487
+R0227,Restaurant 227,Delhi,Cafe,308.0,2023-10-10,Cafe,Mid,28.614,77.209
+R0228,Restaurant 228,Bengaluru,"Chinese, Desserts",606.0,2023-06-24,Chinese,Mid,12.972,77.594
+R0229,Restaurant 229,Chennai,"Biryani, Italian",583.0,2023-06-10,Biryani,Mid,13.083,80.27
+R0230,Restaurant 230,Kolkata,Cafe,430.0,2023-02-09,Cafe,Mid,22.573,88.364
+R0231,Restaurant 231,Bengaluru,"Biryani, Italian, South Indian",890.0,2022-12-21,Biryani,Premium,12.972,77.594
+R0232,Restaurant 232,Hyderabad,"Biryani, Mexican",522.0,2023-10-10,Biryani,Mid,17.385,78.487
+R0233,Restaurant 233,Chennai,Fast Food,354.0,2023-09-19,Fast Food,Mid,13.083,80.27
+R0234,Restaurant 234,Mumbai,"Cafe, Fast Food",666.0,2022-04-24,Cafe,Mid,19.076,72.878
+R0235,Restaurant 235,Chennai,Desserts,584.0,2024-03-09,Desserts,Mid,13.083,80.27
+R0236,Restaurant 236,Pune,Mexican,233.0,2022-06-28,Mexican,Budget,18.52,73.856
+R0237,Restaurant 237,Delhi,"Mexican, Desserts, South Indian",423.0,2022-09-10,Mexican,Mid,28.614,77.209
+R0238,Restaurant 238,Kolkata,Chinese,422.0,2023-08-31,Chinese,Mid,22.573,88.364
+R0239,Restaurant 239,Hyderabad,"Fast Food, Mexican, Continental",500.0,2022-10-04,Fast Food,Mid,17.385,78.487
+R0240,Restaurant 240,Bengaluru,"North Indian, Italian",393.0,2024-05-28,North Indian,Mid,12.972,77.594
+R0241,Restaurant 241,Kolkata,"Biryani, North Indian",767.0,2022-11-23,Biryani,Mid,22.573,88.364
+R0242,Restaurant 242,Delhi,"South Indian, Cafe",763.0,2024-02-08,South Indian,Mid,28.614,77.209
+R0243,Restaurant 243,Delhi,"Mexican, Italian, Desserts",386.0,2024-05-09,Mexican,Mid,28.614,77.209
+R0244,Restaurant 244,Pune,"Continental, Chinese, Cafe",517.0,2023-11-02,Continental,Mid,18.52,73.856
+R0245,Restaurant 245,Bengaluru,Fast Food,955.0,2023-06-30,Fast Food,Premium,12.972,77.594
+R0246,Restaurant 246,Hyderabad,"Chinese, Biryani",459.0,2022-08-21,Chinese,Mid,17.385,78.487
+R0247,Restaurant 247,Pune,Chinese,820.0,2023-05-29,Chinese,Premium,18.52,73.856
+R0248,Restaurant 248,Delhi,Italian,604.0,2022-01-07,Italian,Mid,28.614,77.209
+R0249,Restaurant 249,Mumbai,Mexican,450.0,2023-06-29,Mexican,Mid,19.076,72.878
+R0250,Restaurant 250,Ahmedabad,South Indian,326.0,2022-12-18,South Indian,Mid,23.023,72.572
+R0251,Restaurant 251,Ahmedabad,"South Indian, Fast Food, North Indian",414.0,2023-07-24,South Indian,Mid,23.023,72.572
+R0252,Restaurant 252,Pune,Cafe,506.0,2022-05-05,Cafe,Mid,18.52,73.856
+R0253,Restaurant 253,Mumbai,"Continental, Chinese",246.0,2023-06-03,Continental,Budget,19.076,72.878
+R0254,Restaurant 254,Hyderabad,South Indian,494.0,2023-01-17,South Indian,Mid,17.385,78.487
+R0255,Restaurant 255,Chennai,Desserts,366.0,2022-01-22,Desserts,Mid,13.083,80.27
+R0256,Restaurant 256,Ahmedabad,"South Indian, Fast Food, North Indian",861.0,2023-10-18,South Indian,Premium,23.023,72.572
+R0257,Restaurant 257,Bengaluru,Fast Food,645.0,2022-11-28,Fast Food,Mid,12.972,77.594
+R0258,Restaurant 258,Pune,"Desserts, Italian, Cafe",885.0,2024-01-19,Desserts,Premium,18.52,73.856
+R0259,Restaurant 259,Pune,"Chinese, Cafe",293.0,2022-07-19,Chinese,Budget,18.52,73.856
+R0260,Restaurant 260,Mumbai,"Chinese, South Indian, Biryani",577.0,2022-03-28,Chinese,Mid,19.076,72.878
+R0261,Restaurant 261,Mumbai,North Indian,493.0,2022-03-20,North Indian,Mid,19.076,72.878
+R0262,Restaurant 262,Chennai,"Cafe, Continental",1093.0,2022-02-01,Cafe,Premium,13.083,80.27
+R0263,Restaurant 263,Kolkata,"North Indian, South Indian",329.0,2023-05-13,North Indian,Mid,22.573,88.364
+R0264,Restaurant 264,Bengaluru,"Mexican, Fast Food",879.0,2022-03-25,Mexican,Premium,12.972,77.594
+R0265,Restaurant 265,Bengaluru,"Chinese, Italian",493.0,2023-10-05,Chinese,Mid,12.972,77.594
+R0266,Restaurant 266,Delhi,"Italian, Chinese",541.0,2022-07-17,Italian,Mid,28.614,77.209
+R0267,Restaurant 267,Mumbai,"Cafe, North Indian, Desserts",783.0,2022-02-25,Cafe,Mid,19.076,72.878
+R0268,Restaurant 268,Chennai,"Desserts, Cafe",674.0,2022-05-04,Desserts,Mid,13.083,80.27
+R0269,Restaurant 269,Kolkata,"Italian, South Indian, Mexican",260.0,2023-07-10,Italian,Budget,22.573,88.364
+R0270,Restaurant 270,Delhi,Fast Food,250.0,2023-08-14,Fast Food,Budget,28.614,77.209
+R0271,Restaurant 271,Hyderabad,Biryani,1488.0,2022-11-30,Biryani,Premium,17.385,78.487
+R0272,Restaurant 272,Bengaluru,"Biryani, North Indian, Italian",467.0,2023-06-26,Biryani,Mid,12.972,77.594
+R0273,Restaurant 273,Pune,Fast Food,239.0,2022-11-10,Fast Food,Budget,18.52,73.856
+R0274,Restaurant 274,Hyderabad,"South Indian, Italian",271.0,2022-09-01,South Indian,Budget,17.385,78.487
+R0275,Restaurant 275,Mumbai,"Biryani, Desserts",490.0,2022-01-09,Biryani,Mid,19.076,72.878
+R0276,Restaurant 276,Chennai,Biryani,649.0,2024-03-16,Biryani,Mid,13.083,80.27
+R0277,Restaurant 277,Ahmedabad,"North Indian, Continental, Fast Food",690.0,2022-11-03,North Indian,Mid,23.023,72.572
+R0278,Restaurant 278,Delhi,Fast Food,324.0,2023-06-12,Fast Food,Mid,28.614,77.209
+R0279,Restaurant 279,Mumbai,Chinese,271.0,2022-04-05,Chinese,Budget,19.076,72.878
+R0280,Restaurant 280,Kolkata,"South Indian, Fast Food",363.0,2022-05-02,South Indian,Mid,22.573,88.364
+R0281,Restaurant 281,Bengaluru,"Chinese, Italian",563.0,2024-04-16,Chinese,Mid,12.972,77.594
+R0282,Restaurant 282,Ahmedabad,"Italian, Chinese",150.0,2024-03-10,Italian,Budget,23.023,72.572
+R0283,Restaurant 283,Mumbai,"North Indian, South Indian, Mexican",894.0,2024-05-16,North Indian,Premium,19.076,72.878
+R0284,Restaurant 284,Mumbai,"Desserts, North Indian, Continental",623.0,2024-06-16,Desserts,Mid,19.076,72.878
+R0285,Restaurant 285,Ahmedabad,Italian,633.0,2024-04-04,Italian,Mid,23.023,72.572
+R0286,Restaurant 286,Bengaluru,"South Indian, Continental, Mexican",176.0,2023-03-25,South Indian,Budget,12.972,77.594
+R0287,Restaurant 287,Mumbai,"Italian, Continental, Cafe",636.0,2022-07-15,Italian,Mid,19.076,72.878
+R0288,Restaurant 288,Kolkata,Cafe,314.0,2022-04-03,Cafe,Mid,22.573,88.364
+R0289,Restaurant 289,Bengaluru,"Desserts, Italian",508.0,2022-12-08,Desserts,Mid,12.972,77.594
+R0290,Restaurant 290,Bengaluru,"Desserts, Continental, Mexican",975.0,2022-10-24,Desserts,Premium,12.972,77.594
+R0291,Restaurant 291,Hyderabad,"Fast Food, Chinese",371.0,2024-05-23,Fast Food,Mid,17.385,78.487
+R0292,Restaurant 292,Mumbai,"North Indian, Italian",772.0,2022-03-27,North Indian,Mid,19.076,72.878
+R0293,Restaurant 293,Pune,"Italian, Continental, Chinese",467.0,2023-04-19,Italian,Mid,18.52,73.856
+R0294,Restaurant 294,Mumbai,"South Indian, Continental, Mexican",945.0,2023-08-26,South Indian,Premium,19.076,72.878
+R0295,Restaurant 295,Mumbai,"Italian, North Indian, Cafe",376.0,2024-04-22,Italian,Mid,19.076,72.878
+R0296,Restaurant 296,Kolkata,"Biryani, North Indian, Continental",199.0,2023-11-01,Biryani,Budget,22.573,88.364
+R0297,Restaurant 297,Mumbai,Fast Food,551.0,2024-04-22,Fast Food,Mid,19.076,72.878
+R0298,Restaurant 298,Bengaluru,Mexican,714.0,2024-03-01,Mexican,Mid,12.972,77.594
+R0299,Restaurant 299,Mumbai,Chinese,412.0,2022-05-15,Chinese,Mid,19.076,72.878
+R0300,Restaurant 300,Ahmedabad,"Biryani, South Indian",365.0,2024-05-18,Biryani,Mid,23.023,72.572
+R0301,Restaurant 301,Bengaluru,"South Indian, Mexican, Biryani",156.0,2022-12-17,South Indian,Budget,12.972,77.594
+R0302,Restaurant 302,Hyderabad,"Fast Food, Chinese, Mexican",858.0,2024-06-02,Fast Food,Premium,17.385,78.487
+R0303,Restaurant 303,Pune,"South Indian, Fast Food, Chinese",363.0,2022-03-04,South Indian,Mid,18.52,73.856
+R0304,Restaurant 304,Kolkata,Continental,449.0,2022-10-01,Continental,Mid,22.573,88.364
+R0305,Restaurant 305,Mumbai,"Fast Food, Cafe, Mexican",382.0,2022-04-13,Fast Food,Mid,19.076,72.878
+R0306,Restaurant 306,Bengaluru,"Desserts, Continental",562.0,2022-02-06,Desserts,Mid,12.972,77.594
+R0307,Restaurant 307,Delhi,"Cafe, South Indian, Fast Food",303.0,2023-04-06,Cafe,Mid,28.614,77.209
+R0308,Restaurant 308,Mumbai,"Italian, South Indian, Chinese",662.0,2024-05-26,Italian,Mid,19.076,72.878
+R0309,Restaurant 309,Bengaluru,"Cafe, Desserts, Continental",600.0,2022-07-04,Cafe,Mid,12.972,77.594
+R0310,Restaurant 310,Mumbai,"Cafe, Italian",354.0,2024-05-12,Cafe,Mid,19.076,72.878
+R0311,Restaurant 311,Mumbai,"Chinese, Biryani",634.0,2023-11-17,Chinese,Mid,19.076,72.878
+R0312,Restaurant 312,Mumbai,"South Indian, Chinese, Continental",416.0,2024-01-22,South Indian,Mid,19.076,72.878
+R0313,Restaurant 313,Hyderabad,Cafe,439.0,2023-12-15,Cafe,Mid,17.385,78.487
+R0314,Restaurant 314,Delhi,"North Indian, Mexican",415.0,2024-05-21,North Indian,Mid,28.614,77.209
+R0315,Restaurant 315,Mumbai,"Chinese, South Indian",863.0,2022-04-25,Chinese,Premium,19.076,72.878
+R0316,Restaurant 316,Ahmedabad,"Fast Food, Continental, South Indian",487.0,2024-01-28,Fast Food,Mid,23.023,72.572
+R0317,Restaurant 317,Kolkata,"Desserts, Biryani, Chinese",956.0,2023-01-30,Desserts,Premium,22.573,88.364
+R0318,Restaurant 318,Bengaluru,"Desserts, Cafe, Fast Food",514.0,2022-12-14,Desserts,Mid,12.972,77.594
+R0319,Restaurant 319,Mumbai,North Indian,573.0,2023-10-15,North Indian,Mid,19.076,72.878
+R0320,Restaurant 320,Mumbai,"South Indian, Cafe",606.0,2023-07-05,South Indian,Mid,19.076,72.878
+R0321,Restaurant 321,Hyderabad,"Chinese, South Indian, Cafe",393.5,2024-02-24,Chinese,Mid,17.385,78.487
+R0322,Restaurant 322,Mumbai,"Chinese, Biryani, North Indian",379.0,2022-05-19,Chinese,Mid,19.076,72.878
+R0323,Restaurant 323,Kolkata,Biryani,660.0,2023-08-18,Biryani,Mid,22.573,88.364
+R0324,Restaurant 324,Hyderabad,"Continental, Chinese",243.0,2023-12-22,Continental,Budget,17.385,78.487
+R0325,Restaurant 325,Mumbai,"South Indian, Mexican",1343.0,2023-01-02,South Indian,Premium,19.076,72.878
+R0326,Restaurant 326,Pune,"Biryani, Cafe",448.0,2022-12-07,Biryani,Mid,18.52,73.856
+R0327,Restaurant 327,Chennai,"Desserts, South Indian",326.0,2022-05-26,Desserts,Mid,13.083,80.27
+R0328,Restaurant 328,Mumbai,"Continental, Chinese",436.0,2023-10-12,Continental,Mid,19.076,72.878
+R0329,Restaurant 329,Hyderabad,"Cafe, South Indian, Continental",474.0,2024-04-23,Cafe,Mid,17.385,78.487
+R0330,Restaurant 330,Bengaluru,"Cafe, Chinese",365.0,2023-03-14,Cafe,Mid,12.972,77.594
+R0331,Restaurant 331,Chennai,"Desserts, Biryani, North Indian",561.0,2023-06-23,Desserts,Mid,13.083,80.27
+R0332,Restaurant 332,Mumbai,"Fast Food, North Indian, Cafe",619.0,2023-03-05,Fast Food,Mid,19.076,72.878
+R0333,Restaurant 333,Chennai,"Desserts, Biryani, Continental",1386.0,2023-11-25,Desserts,Premium,13.083,80.27
+R0334,Restaurant 334,Chennai,"Italian, Chinese",355.0,2023-08-20,Italian,Mid,13.083,80.27
+R0335,Restaurant 335,Bengaluru,"Chinese, Fast Food, Biryani",276.0,2023-03-17,Chinese,Budget,12.972,77.594
+R0336,Restaurant 336,Mumbai,"Fast Food, Chinese",817.0,2023-11-02,Fast Food,Premium,19.076,72.878
+R0337,Restaurant 337,Kolkata,"Biryani, South Indian",457.0,2023-05-22,Biryani,Mid,22.573,88.364
+R0338,Restaurant 338,Mumbai,North Indian,1061.0,2024-05-10,North Indian,Premium,19.076,72.878
+R0339,Restaurant 339,Kolkata,"Chinese, Italian",571.0,2022-06-02,Chinese,Mid,22.573,88.364
+R0340,Restaurant 340,Mumbai,"Desserts, Continental, South Indian",534.0,2023-03-07,Desserts,Mid,19.076,72.878
+R0341,Restaurant 341,Mumbai,Italian,372.0,2024-01-17,Italian,Mid,19.076,72.878
+R0342,Restaurant 342,Pune,"Fast Food, South Indian, North Indian",678.0,2023-12-05,Fast Food,Mid,18.52,73.856
+R0343,Restaurant 343,Pune,Fast Food,372.0,2022-11-02,Fast Food,Mid,18.52,73.856
+R0344,Restaurant 344,Bengaluru,"Cafe, South Indian",190.0,2023-02-25,Cafe,Budget,12.972,77.594
+R0345,Restaurant 345,Mumbai,"South Indian, Italian, Desserts",630.0,2023-09-23,South Indian,Mid,19.076,72.878
+R0346,Restaurant 346,Delhi,Mexican,541.0,2022-11-29,Mexican,Mid,28.614,77.209
+R0347,Restaurant 347,Bengaluru,Cafe,427.0,2022-01-22,Cafe,Mid,12.972,77.594
+R0348,Restaurant 348,Kolkata,"Cafe, Fast Food, Mexican",407.0,2024-03-11,Cafe,Mid,22.573,88.364
+R0349,Restaurant 349,Mumbai,"Continental, Fast Food",188.0,2023-02-26,Continental,Budget,19.076,72.878
+R0350,Restaurant 350,Hyderabad,"Cafe, Fast Food",291.0,2023-05-27,Cafe,Budget,17.385,78.487
+R0351,Restaurant 351,Kolkata,"Chinese, Desserts, North Indian",324.0,2023-08-25,Chinese,Mid,22.573,88.364
+R0352,Restaurant 352,Delhi,"Mexican, South Indian, North Indian",910.0,2022-12-28,Mexican,Premium,28.614,77.209
+R0353,Restaurant 353,Hyderabad,"Fast Food, Mexican",631.0,2022-07-13,Fast Food,Mid,17.385,78.487
+R0354,Restaurant 354,Mumbai,Chinese,379.0,2022-06-25,Chinese,Mid,19.076,72.878
+R0355,Restaurant 355,Delhi,"Mexican, North Indian, Italian",697.0,2022-07-23,Mexican,Mid,28.614,77.209
+R0356,Restaurant 356,Chennai,"Continental, Chinese, Cafe",294.0,2022-05-07,Continental,Budget,13.083,80.27
+R0357,Restaurant 357,Ahmedabad,"Cafe, Chinese",530.0,2022-01-05,Cafe,Mid,23.023,72.572
+R0358,Restaurant 358,Pune,"Mexican, Fast Food",574.0,2022-08-16,Mexican,Mid,18.52,73.856
+R0359,Restaurant 359,Delhi,"Italian, Continental",499.0,2023-05-30,Italian,Mid,28.614,77.209
+R0360,Restaurant 360,Delhi,"Italian, Cafe",459.0,2022-02-04,Italian,Mid,28.614,77.209
+R0361,Restaurant 361,Pune,"Mexican, North Indian, Desserts",171.0,2022-08-01,Mexican,Budget,18.52,73.856
+R0362,Restaurant 362,Bengaluru,South Indian,264.0,2022-06-25,South Indian,Budget,12.972,77.594
+R0363,Restaurant 363,Ahmedabad,"Desserts, Fast Food, Cafe",604.0,2023-08-11,Desserts,Mid,23.023,72.572
+R0364,Restaurant 364,Chennai,"Cafe, Chinese",480.0,2022-08-10,Cafe,Mid,13.083,80.27
+R0365,Restaurant 365,Delhi,"Italian, Fast Food, North Indian",907.0,2022-08-03,Italian,Premium,28.614,77.209
+R0366,Restaurant 366,Kolkata,South Indian,414.0,2023-12-18,South Indian,Mid,22.573,88.364
+R0367,Restaurant 367,Delhi,"Desserts, Chinese",510.0,2022-01-22,Desserts,Mid,28.614,77.209
+R0368,Restaurant 368,Bengaluru,"Italian, Cafe, Fast Food",349.0,2024-02-02,Italian,Mid,12.972,77.594
+R0369,Restaurant 369,Chennai,South Indian,694.0,2022-05-25,South Indian,Mid,13.083,80.27
+R0370,Restaurant 370,Kolkata,Italian,171.0,2024-04-05,Italian,Budget,22.573,88.364
+R0371,Restaurant 371,Mumbai,Chinese,800.0,2023-05-03,Chinese,Mid,19.076,72.878
+R0372,Restaurant 372,Pune,North Indian,488.0,2023-07-12,North Indian,Mid,18.52,73.856
+R0373,Restaurant 373,Ahmedabad,Continental,222.0,2024-05-27,Continental,Budget,23.023,72.572
+R0374,Restaurant 374,Pune,"Mexican, North Indian",617.0,2023-04-20,Mexican,Mid,18.52,73.856
+R0375,Restaurant 375,Delhi,Continental,659.0,2024-06-07,Continental,Mid,28.614,77.209
+R0376,Restaurant 376,Bengaluru,Italian,834.0,2023-03-29,Italian,Premium,12.972,77.594
+R0377,Restaurant 377,Delhi,"Italian, Continental, Cafe",627.0,2022-09-18,Italian,Mid,28.614,77.209
+R0378,Restaurant 378,Ahmedabad,"Fast Food, Continental, Chinese",691.0,2023-12-17,Fast Food,Mid,23.023,72.572
+R0379,Restaurant 379,Chennai,"Cafe, Continental, South Indian",1106.0,2022-03-05,Cafe,Premium,13.083,80.27
+R0380,Restaurant 380,Delhi,"South Indian, Biryani, North Indian",359.0,2024-02-27,South Indian,Mid,28.614,77.209
+R0381,Restaurant 381,Kolkata,"Italian, Desserts",603.0,2022-08-13,Italian,Mid,22.573,88.364
+R0382,Restaurant 382,Pune,"Chinese, South Indian, Italian",434.0,2023-08-16,Chinese,Mid,18.52,73.856
+R0383,Restaurant 383,Hyderabad,"South Indian, Cafe",856.0,2023-03-03,South Indian,Premium,17.385,78.487
+R0384,Restaurant 384,Kolkata,Fast Food,550.0,2022-11-10,Fast Food,Mid,22.573,88.364
+R0385,Restaurant 385,Pune,"Mexican, Italian, Cafe",459.0,2023-04-18,Mexican,Mid,18.52,73.856
+R0386,Restaurant 386,Hyderabad,"Desserts, South Indian, Continental",399.0,2022-07-14,Desserts,Mid,17.385,78.487
+R0387,Restaurant 387,Ahmedabad,"Chinese, South Indian, Continental",394.0,2022-04-08,Chinese,Mid,23.023,72.572
+R0388,Restaurant 388,Bengaluru,"Italian, Continental",401.0,2023-04-24,Italian,Mid,12.972,77.594
+R0389,Restaurant 389,Delhi,Desserts,457.0,2024-01-24,Desserts,Mid,28.614,77.209
+R0390,Restaurant 390,Ahmedabad,"Cafe, North Indian, Italian",521.0,2022-05-07,Cafe,Mid,23.023,72.572
+R0391,Restaurant 391,Delhi,"Mexican, Continental, Italian",789.0,2022-06-18,Mexican,Mid,28.614,77.209
+R0392,Restaurant 392,Ahmedabad,Italian,818.0,2022-03-06,Italian,Premium,23.023,72.572
+R0393,Restaurant 393,Pune,South Indian,388.0,2022-03-18,South Indian,Mid,18.52,73.856
+R0394,Restaurant 394,Hyderabad,"Biryani, North Indian, Fast Food",257.0,2023-07-29,Biryani,Budget,17.385,78.487
+R0395,Restaurant 395,Bengaluru,"Continental, Fast Food",489.0,2023-01-14,Continental,Mid,12.972,77.594
+R0396,Restaurant 396,Kolkata,"Fast Food, Chinese, Desserts",273.0,2022-08-10,Fast Food,Budget,22.573,88.364
+R0397,Restaurant 397,Pune,"Mexican, Biryani, Cafe",394.0,2023-11-09,Mexican,Mid,18.52,73.856
+R0398,Restaurant 398,Kolkata,Fast Food,366.0,2023-09-13,Fast Food,Mid,22.573,88.364
+R0399,Restaurant 399,Hyderabad,"Fast Food, Cafe, Chinese",1367.0,2022-05-20,Fast Food,Premium,17.385,78.487
+R0400,Restaurant 400,Chennai,"South Indian, Mexican",371.0,2023-09-17,South Indian,Mid,13.083,80.27

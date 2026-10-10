@@ -1,0 +1,797 @@
+restaurant_id,city,cuisine
+R0001,Bengaluru,Continental
+R0002,Pune,South Indian
+R0002,Pune,North Indian
+R0002,Pune,Biryani
+R0003,Chennai,Cafe
+R0003,Chennai,Fast Food
+R0003,Chennai,Italian
+R0004,Mumbai,Chinese
+R0004,Mumbai,Fast Food
+R0005,Pune,Desserts
+R0006,Bengaluru,Italian
+R0006,Bengaluru,Mexican
+R0006,Bengaluru,Desserts
+R0007,Pune,South Indian
+R0007,Pune,Continental
+R0008,Bengaluru,Cafe
+R0009,Delhi,Desserts
+R0009,Delhi,South Indian
+R0010,Delhi,South Indian
+R0010,Delhi,Mexican
+R0011,Delhi,Mexican
+R0011,Delhi,Continental
+R0012,Mumbai,Mexican
+R0013,Bengaluru,Continental
+R0013,Bengaluru,Fast Food
+R0013,Bengaluru,Biryani
+R0014,Chennai,Chinese
+R0015,Hyderabad,Fast Food
+R0015,Hyderabad,Continental
+R0015,Hyderabad,North Indian
+R0016,Bengaluru,Desserts
+R0017,Kolkata,Fast Food
+R0018,Delhi,Mexican
+R0019,Pune,Biryani
+R0020,Mumbai,Mexican
+R0020,Mumbai,Italian
+R0021,Bengaluru,Desserts
+R0021,Bengaluru,Biryani
+R0021,Bengaluru,Fast Food
+R0022,Hyderabad,South Indian
+R0022,Hyderabad,Italian
+R0022,Hyderabad,Fast Food
+R0023,Kolkata,North Indian
+R0023,Kolkata,South Indian
+R0023,Kolkata,Italian
+R0024,Pune,Continental
+R0025,Kolkata,Desserts
+R0025,Kolkata,Chinese
+R0025,Kolkata,Italian
+R0026,Hyderabad,Continental
+R0027,Chennai,Continental
+R0027,Chennai,North Indian
+R0028,Mumbai,Biryani
+R0028,Mumbai,South Indian
+R0029,Mumbai,South Indian
+R0029,Mumbai,Fast Food
+R0029,Mumbai,North Indian
+R0030,Hyderabad,South Indian
+R0030,Hyderabad,Continental
+R0031,Ahmedabad,Chinese
+R0031,Ahmedabad,Biryani
+R0032,Ahmedabad,North Indian
+R0032,Ahmedabad,Chinese
+R0032,Ahmedabad,Mexican
+R0033,Delhi,Mexican
+R0033,Delhi,Fast Food
+R0034,Kolkata,North Indian
+R0034,Kolkata,Chinese
+R0035,Mumbai,Biryani
+R0036,Chennai,Chinese
+R0037,Kolkata,South Indian
+R0038,Bengaluru,South Indian
+R0039,Ahmedabad,Cafe
+R0039,Ahmedabad,Continental
+R0040,Mumbai,Mexican
+R0040,Mumbai,Chinese
+R0041,Ahmedabad,Fast Food
+R0042,Delhi,Mexican
+R0042,Delhi,Desserts
+R0042,Delhi,Chinese
+R0043,Mumbai,Fast Food
+R0043,Mumbai,Biryani
+R0044,Delhi,North Indian
+R0045,Mumbai,Mexican
+R0046,Delhi,Mexican
+R0046,Delhi,Desserts
+R0047,Bengaluru,Cafe
+R0048,Mumbai,South Indian
+R0049,Hyderabad,North Indian
+R0049,Hyderabad,Chinese
+R0049,Hyderabad,Biryani
+R0050,Mumbai,North Indian
+R0050,Mumbai,Desserts
+R0050,Mumbai,Cafe
+R0051,Delhi,Italian
+R0052,Kolkata,Chinese
+R0052,Kolkata,Cafe
+R0053,Mumbai,Fast Food
+R0053,Mumbai,South Indian
+R0054,Ahmedabad,Cafe
+R0054,Ahmedabad,North Indian
+R0055,Mumbai,Fast Food
+R0055,Mumbai,Desserts
+R0056,Hyderabad,Continental
+R0056,Hyderabad,Fast Food
+R0056,Hyderabad,Chinese
+R0057,Bengaluru,Italian
+R0058,Pune,Fast Food
+R0058,Pune,Biryani
+R0058,Pune,Chinese
+R0059,Mumbai,North Indian
+R0059,Mumbai,Cafe
+R0059,Mumbai,Continental
+R0060,Kolkata,Cafe
+R0061,Mumbai,Chinese
+R0062,Mumbai,Continental
+R0063,Bengaluru,Biryani
+R0063,Bengaluru,Cafe
+R0064,Mumbai,Desserts
+R0064,Mumbai,Mexican
+R0065,Hyderabad,Chinese
+R0066,Hyderabad,North Indian
+R0067,Mumbai,Mexican
+R0068,Kolkata,Mexican
+R0069,Pune,Mexican
+R0070,Kolkata,Mexican
+R0070,Kolkata,Biryani
+R0070,Kolkata,South Indian
+R0071,Mumbai,Desserts
+R0071,Mumbai,Cafe
+R0071,Mumbai,Italian
+R0072,Bengaluru,Chinese
+R0072,Bengaluru,Biryani
+R0073,Delhi,Italian
+R0073,Delhi,South Indian
+R0074,Kolkata,Fast Food
+R0074,Kolkata,Continental
+R0074,Kolkata,Desserts
+R0075,Hyderabad,Mexican
+R0076,Delhi,South Indian
+R0077,Hyderabad,Cafe
+R0077,Hyderabad,Continental
+R0078,Ahmedabad,Fast Food
+R0078,Ahmedabad,North Indian
+R0078,Ahmedabad,Biryani
+R0079,Pune,Biryani
+R0079,Pune,Fast Food
+R0080,Mumbai,Continental
+R0081,Hyderabad,Biryani
+R0082,Bengaluru,Desserts
+R0082,Bengaluru,Continental
+R0083,Mumbai,Cafe
+R0084,Bengaluru,Fast Food
+R0085,Delhi,Desserts
+R0086,Mumbai,Biryani
+R0086,Mumbai,Continental
+R0086,Mumbai,Chinese
+R0087,Bengaluru,Cafe
+R0088,Bengaluru,Fast Food
+R0088,Bengaluru,South Indian
+R0088,Bengaluru,Cafe
+R0089,Ahmedabad,Mexican
+R0089,Ahmedabad,North Indian
+R0090,Chennai,Biryani
+R0090,Chennai,South Indian
+R0090,Chennai,Continental
+R0091,Pune,Fast Food
+R0092,Kolkata,Fast Food
+R0092,Kolkata,Chinese
+R0093,Kolkata,North Indian
+R0093,Kolkata,Italian
+R0094,Chennai,Mexican
+R0094,Chennai,North Indian
+R0094,Chennai,Desserts
+R0095,Mumbai,Mexican
+R0095,Mumbai,North Indian
+R0095,Mumbai,Continental
+R0096,Chennai,North Indian
+R0097,Mumbai,North Indian
+R0098,Pune,Chinese
+R0098,Pune,Continental
+R0098,Pune,Cafe
+R0099,Chennai,Continental
+R0100,Mumbai,Fast Food
+R0101,Kolkata,Desserts
+R0101,Kolkata,Biryani
+R0102,Ahmedabad,South Indian
+R0102,Ahmedabad,Cafe
+R0102,Ahmedabad,North Indian
+R0103,Mumbai,North Indian
+R0103,Mumbai,Cafe
+R0104,Ahmedabad,Cafe
+R0104,Ahmedabad,South Indian
+R0104,Ahmedabad,Italian
+R0105,Hyderabad,Continental
+R0105,Hyderabad,Chinese
+R0106,Chennai,Fast Food
+R0106,Chennai,Cafe
+R0106,Chennai,Chinese
+R0107,Bengaluru,South Indian
+R0108,Delhi,South Indian
+R0108,Delhi,Cafe
+R0109,Chennai,Italian
+R0109,Chennai,Continental
+R0110,Delhi,Continental
+R0110,Delhi,Chinese
+R0111,Bengaluru,Fast Food
+R0112,Chennai,Italian
+R0112,Chennai,Biryani
+R0113,Hyderabad,Chinese
+R0113,Hyderabad,Cafe
+R0114,Chennai,Fast Food
+R0114,Chennai,Italian
+R0115,Bengaluru,Cafe
+R0116,Mumbai,Chinese
+R0116,Mumbai,South Indian
+R0116,Mumbai,Biryani
+R0117,Delhi,Continental
+R0117,Delhi,North Indian
+R0117,Delhi,Desserts
+R0118,Mumbai,North Indian
+R0119,Hyderabad,Italian
+R0119,Hyderabad,Desserts
+R0119,Hyderabad,Cafe
+R0120,Pune,Cafe
+R0120,Pune,Fast Food
+R0121,Chennai,South Indian
+R0121,Chennai,Biryani
+R0121,Chennai,Continental
+R0122,Mumbai,Continental
+R0123,Hyderabad,Continental
+R0123,Hyderabad,Cafe
+R0124,Mumbai,Biryani
+R0124,Mumbai,Cafe
+R0124,Mumbai,South Indian
+R0125,Bengaluru,Fast Food
+R0126,Mumbai,Chinese
+R0127,Bengaluru,Chinese
+R0128,Kolkata,Cafe
+R0128,Kolkata,North Indian
+R0129,Pune,Biryani
+R0129,Pune,Fast Food
+R0130,Kolkata,Desserts
+R0130,Kolkata,Biryani
+R0131,Bengaluru,Desserts
+R0131,Bengaluru,Cafe
+R0132,Bengaluru,Mexican
+R0132,Bengaluru,South Indian
+R0133,Kolkata,Cafe
+R0133,Kolkata,North Indian
+R0134,Delhi,North Indian
+R0135,Delhi,Desserts
+R0135,Delhi,Mexican
+R0136,Chennai,Fast Food
+R0137,Pune,Mexican
+R0137,Pune,Continental
+R0137,Pune,Desserts
+R0138,Mumbai,Mexican
+R0138,Mumbai,Chinese
+R0138,Mumbai,Desserts
+R0139,Ahmedabad,Italian
+R0139,Ahmedabad,Biryani
+R0139,Ahmedabad,Cafe
+R0140,Pune,Mexican
+R0141,Mumbai,South Indian
+R0142,Ahmedabad,Continental
+R0142,Ahmedabad,Cafe
+R0143,Mumbai,Continental
+R0144,Bengaluru,Mexican
+R0144,Bengaluru,Chinese
+R0144,Bengaluru,Fast Food
+R0145,Chennai,North Indian
+R0145,Chennai,Cafe
+R0146,Delhi,Desserts
+R0146,Delhi,Biryani
+R0146,Delhi,Italian
+R0147,Mumbai,Mexican
+R0148,Chennai,Fast Food
+R0148,Chennai,Continental
+R0148,Chennai,North Indian
+R0149,Kolkata,Biryani
+R0149,Kolkata,Continental
+R0150,Kolkata,Italian
+R0150,Kolkata,Fast Food
+R0151,Pune,North Indian
+R0151,Pune,Italian
+R0151,Pune,Desserts
+R0152,Mumbai,Continental
+R0153,Chennai,Cafe
+R0154,Mumbai,Cafe
+R0154,Mumbai,Fast Food
+R0155,Delhi,North Indian
+R0156,Bengaluru,Mexican
+R0156,Bengaluru,Desserts
+R0157,Kolkata,Fast Food
+R0157,Kolkata,Desserts
+R0157,Kolkata,Biryani
+R0158,Hyderabad,Mexican
+R0159,Chennai,Biryani
+R0160,Mumbai,Chinese
+R0161,Pune,Biryani
+R0162,Chennai,Continental
+R0162,Chennai,Fast Food
+R0163,Mumbai,South Indian
+R0163,Mumbai,Cafe
+R0164,Ahmedabad,Cafe
+R0164,Ahmedabad,Desserts
+R0164,Ahmedabad,Fast Food
+R0165,Delhi,North Indian
+R0166,Mumbai,Chinese
+R0166,Mumbai,Biryani
+R0167,Chennai,Continental
+R0167,Chennai,Italian
+R0168,Bengaluru,Fast Food
+R0169,Kolkata,South Indian
+R0170,Bengaluru,Fast Food
+R0170,Bengaluru,Chinese
+R0171,Delhi,Biryani
+R0171,Delhi,Continental
+R0172,Delhi,Desserts
+R0172,Delhi,Continental
+R0173,Chennai,Fast Food
+R0173,Chennai,North Indian
+R0174,Kolkata,Italian
+R0175,Hyderabad,Continental
+R0175,Hyderabad,North Indian
+R0175,Hyderabad,South Indian
+R0176,Mumbai,Chinese
+R0176,Mumbai,Biryani
+R0177,Pune,Fast Food
+R0177,Pune,Biryani
+R0178,Bengaluru,Chinese
+R0179,Delhi,Continental
+R0179,Delhi,North Indian
+R0179,Delhi,Italian
+R0180,Delhi,Chinese
+R0180,Delhi,Cafe
+R0181,Mumbai,Italian
+R0181,Mumbai,North Indian
+R0181,Mumbai,Desserts
+R0182,Hyderabad,Desserts
+R0182,Hyderabad,Mexican
+R0182,Hyderabad,Chinese
+R0183,Bengaluru,Desserts
+R0183,Bengaluru,Cafe
+R0183,Bengaluru,South Indian
+R0184,Ahmedabad,Cafe
+R0185,Kolkata,South Indian
+R0185,Kolkata,Biryani
+R0186,Hyderabad,South Indian
+R0186,Hyderabad,Chinese
+R0187,Mumbai,Biryani
+R0187,Mumbai,Cafe
+R0188,Delhi,Mexican
+R0189,Bengaluru,Biryani
+R0190,Bengaluru,Desserts
+R0190,Bengaluru,Biryani
+R0190,Bengaluru,Chinese
+R0191,Bengaluru,North Indian
+R0191,Bengaluru,Continental
+R0191,Bengaluru,Mexican
+R0192,Ahmedabad,Italian
+R0192,Ahmedabad,Biryani
+R0192,Ahmedabad,South Indian
+R0193,Delhi,South Indian
+R0193,Delhi,Mexican
+R0193,Delhi,Cafe
+R0194,Pune,Desserts
+R0194,Pune,Biryani
+R0194,Pune,Continental
+R0195,Mumbai,Continental
+R0195,Mumbai,Cafe
+R0196,Pune,Continental
+R0196,Pune,Biryani
+R0196,Pune,Desserts
+R0197,Bengaluru,Cafe
+R0198,Hyderabad,Italian
+R0198,Hyderabad,Desserts
+R0198,Hyderabad,Biryani
+R0199,Ahmedabad,Desserts
+R0200,Bengaluru,Italian
+R0201,Chennai,South Indian
+R0202,Kolkata,Chinese
+R0202,Kolkata,South Indian
+R0202,Kolkata,Biryani
+R0203,Hyderabad,Cafe
+R0203,Hyderabad,South Indian
+R0204,Bengaluru,South Indian
+R0205,Bengaluru,Desserts
+R0206,Pune,South Indian
+R0207,Ahmedabad,Continental
+R0207,Ahmedabad,Cafe
+R0207,Ahmedabad,North Indian
+R0208,Hyderabad,Cafe
+R0209,Mumbai,Desserts
+R0209,Mumbai,Cafe
+R0209,Mumbai,Mexican
+R0210,Hyderabad,South Indian
+R0211,Pune,Continental
+R0211,Pune,Chinese
+R0211,Pune,Italian
+R0212,Mumbai,Desserts
+R0213,Delhi,Chinese
+R0213,Delhi,Italian
+R0213,Delhi,North Indian
+R0214,Kolkata,South Indian
+R0214,Kolkata,Chinese
+R0215,Delhi,Continental
+R0215,Delhi,Fast Food
+R0216,Bengaluru,Continental
+R0216,Bengaluru,North Indian
+R0216,Bengaluru,Cafe
+R0217,Mumbai,Mexican
+R0217,Mumbai,Fast Food
+R0218,Hyderabad,Fast Food
+R0218,Hyderabad,North Indian
+R0218,Hyderabad,Mexican
+R0219,Mumbai,Chinese
+R0220,Bengaluru,Cafe
+R0220,Bengaluru,North Indian
+R0220,Bengaluru,Chinese
+R0221,Pune,South Indian
+R0221,Pune,Mexican
+R0222,Delhi,Continental
+R0222,Delhi,South Indian
+R0223,Pune,Chinese
+R0223,Pune,Continental
+R0223,Pune,North Indian
+R0224,Bengaluru,Chinese
+R0225,Mumbai,Fast Food
+R0225,Mumbai,Cafe
+R0225,Mumbai,North Indian
+R0226,Hyderabad,Fast Food
+R0227,Delhi,Cafe
+R0228,Bengaluru,Chinese
+R0228,Bengaluru,Desserts
+R0229,Chennai,Biryani
+R0229,Chennai,Italian
+R0230,Kolkata,Cafe
+R0231,Bengaluru,Biryani
+R0231,Bengaluru,Italian
+R0231,Bengaluru,South Indian
+R0232,Hyderabad,Biryani
+R0232,Hyderabad,Mexican
+R0233,Chennai,Fast Food
+R0234,Mumbai,Cafe
+R0234,Mumbai,Fast Food
+R0235,Chennai,Desserts
+R0236,Pune,Mexican
+R0237,Delhi,Mexican
+R0237,Delhi,Desserts
+R0237,Delhi,South Indian
+R0238,Kolkata,Chinese
+R0239,Hyderabad,Fast Food
+R0239,Hyderabad,Mexican
+R0239,Hyderabad,Continental
+R0240,Bengaluru,North Indian
+R0240,Bengaluru,Italian
+R0241,Kolkata,Biryani
+R0241,Kolkata,North Indian
+R0242,Delhi,South Indian
+R0242,Delhi,Cafe
+R0243,Delhi,Mexican
+R0243,Delhi,Italian
+R0243,Delhi,Desserts
+R0244,Pune,Continental
+R0244,Pune,Chinese
+R0244,Pune,Cafe
+R0245,Bengaluru,Fast Food
+R0246,Hyderabad,Chinese
+R0246,Hyderabad,Biryani
+R0247,Pune,Chinese
+R0248,Delhi,Italian
+R0249,Mumbai,Mexican
+R0250,Ahmedabad,South Indian
+R0251,Ahmedabad,South Indian
+R0251,Ahmedabad,Fast Food
+R0251,Ahmedabad,North Indian
+R0252,Pune,Cafe
+R0253,Mumbai,Continental
+R0253,Mumbai,Chinese
+R0254,Hyderabad,South Indian
+R0255,Chennai,Desserts
+R0256,Ahmedabad,South Indian
+R0256,Ahmedabad,Fast Food
+R0256,Ahmedabad,North Indian
+R0257,Bengaluru,Fast Food
+R0258,Pune,Desserts
+R0258,Pune,Italian
+R0258,Pune,Cafe
+R0259,Pune,Chinese
+R0259,Pune,Cafe
+R0260,Mumbai,Chinese
+R0260,Mumbai,South Indian
+R0260,Mumbai,Biryani
+R0261,Mumbai,North Indian
+R0262,Chennai,Cafe
+R0262,Chennai,Continental
+R0263,Kolkata,North Indian
+R0263,Kolkata,South Indian
+R0264,Bengaluru,Mexican
+R0264,Bengaluru,Fast Food
+R0265,Bengaluru,Chinese
+R0265,Bengaluru,Italian
+R0266,Delhi,Italian
+R0266,Delhi,Chinese
+R0267,Mumbai,Cafe
+R0267,Mumbai,North Indian
+R0267,Mumbai,Desserts
+R0268,Chennai,Desserts
+R0268,Chennai,Cafe
+R0269,Kolkata,Italian
+R0269,Kolkata,South Indian
+R0269,Kolkata,Mexican
+R0270,Delhi,Fast Food
+R0271,Hyderabad,Biryani
+R0272,Bengaluru,Biryani
+R0272,Bengaluru,North Indian
+R0272,Bengaluru,Italian
+R0273,Pune,Fast Food
+R0274,Hyderabad,South Indian
+R0274,Hyderabad,Italian
+R0275,Mumbai,Biryani
+R0275,Mumbai,Desserts
+R0276,Chennai,Biryani
+R0277,Ahmedabad,North Indian
+R0277,Ahmedabad,Continental
+R0277,Ahmedabad,Fast Food
+R0278,Delhi,Fast Food
+R0279,Mumbai,Chinese
+R0280,Kolkata,South Indian
+R0280,Kolkata,Fast Food
+R0281,Bengaluru,Chinese
+R0281,Bengaluru,Italian
+R0282,Ahmedabad,Italian
+R0282,Ahmedabad,Chinese
+R0283,Mumbai,North Indian
+R0283,Mumbai,South Indian
+R0283,Mumbai,Mexican
+R0284,Mumbai,Desserts
+R0284,Mumbai,North Indian
+R0284,Mumbai,Continental
+R0285,Ahmedabad,Italian
+R0286,Bengaluru,South Indian
+R0286,Bengaluru,Continental
+R0286,Bengaluru,Mexican
+R0287,Mumbai,Italian
+R0287,Mumbai,Continental
+R0287,Mumbai,Cafe
+R0288,Kolkata,Cafe
+R0289,Bengaluru,Desserts
+R0289,Bengaluru,Italian
+R0290,Bengaluru,Desserts
+R0290,Bengaluru,Continental
+R0290,Bengaluru,Mexican
+R0291,Hyderabad,Fast Food
+R0291,Hyderabad,Chinese
+R0292,Mumbai,North Indian
+R0292,Mumbai,Italian
+R0293,Pune,Italian
+R0293,Pune,Continental
+R0293,Pune,Chinese
+R0294,Mumbai,South Indian
+R0294,Mumbai,Continental
+R0294,Mumbai,Mexican
+R0295,Mumbai,Italian
+R0295,Mumbai,North Indian
+R0295,Mumbai,Cafe
+R0296,Kolkata,Biryani
+R0296,Kolkata,North Indian
+R0296,Kolkata,Continental
+R0297,Mumbai,Fast Food
+R0298,Bengaluru,Mexican
+R0299,Mumbai,Chinese
+R0300,Ahmedabad,Biryani
+R0300,Ahmedabad,South Indian
+R0301,Bengaluru,South Indian
+R0301,Bengaluru,Mexican
+R0301,Bengaluru,Biryani
+R0302,Hyderabad,Fast Food
+R0302,Hyderabad,Chinese
+R0302,Hyderabad,Mexican
+R0303,Pune,South Indian
+R0303,Pune,Fast Food
+R0303,Pune,Chinese
+R0304,Kolkata,Continental
+R0305,Mumbai,Fast Food
+R0305,Mumbai,Cafe
+R0305,Mumbai,Mexican
+R0306,Bengaluru,Desserts
+R0306,Bengaluru,Continental
+R0307,Delhi,Cafe
+R0307,Delhi,South Indian
+R0307,Delhi,Fast Food
+R0308,Mumbai,Italian
+R0308,Mumbai,South Indian
+R0308,Mumbai,Chinese
+R0309,Bengaluru,Cafe
+R0309,Bengaluru,Desserts
+R0309,Bengaluru,Continental
+R0310,Mumbai,Cafe
+R0310,Mumbai,Italian
+R0311,Mumbai,Chinese
+R0311,Mumbai,Biryani
+R0312,Mumbai,South Indian
+R0312,Mumbai,Chinese
+R0312,Mumbai,Continental
+R0313,Hyderabad,Cafe
+R0314,Delhi,North Indian
+R0314,Delhi,Mexican
+R0315,Mumbai,Chinese
+R0315,Mumbai,South Indian
+R0316,Ahmedabad,Fast Food
+R0316,Ahmedabad,Continental
+R0316,Ahmedabad,South Indian
+R0317,Kolkata,Desserts
+R0317,Kolkata,Biryani
+R0317,Kolkata,Chinese
+R0318,Bengaluru,Desserts
+R0318,Bengaluru,Cafe
+R0318,Bengaluru,Fast Food
+R0319,Mumbai,North Indian
+R0320,Mumbai,South Indian
+R0320,Mumbai,Cafe
+R0321,Hyderabad,Chinese
+R0321,Hyderabad,South Indian
+R0321,Hyderabad,Cafe
+R0322,Mumbai,Chinese
+R0322,Mumbai,Biryani
+R0322,Mumbai,North Indian
+R0323,Kolkata,Biryani
+R0324,Hyderabad,Continental
+R0324,Hyderabad,Chinese
+R0325,Mumbai,South Indian
+R0325,Mumbai,Mexican
+R0326,Pune,Biryani
+R0326,Pune,Cafe
+R0327,Chennai,Desserts
+R0327,Chennai,South Indian
+R0328,Mumbai,Continental
+R0328,Mumbai,Chinese
+R0329,Hyderabad,Cafe
+R0329,Hyderabad,South Indian
+R0329,Hyderabad,Continental
+R0330,Bengaluru,Cafe
+R0330,Bengaluru,Chinese
+R0331,Chennai,Desserts
+R0331,Chennai,Biryani
+R0331,Chennai,North Indian
+R0332,Mumbai,Fast Food
+R0332,Mumbai,North Indian
+R0332,Mumbai,Cafe
+R0333,Chennai,Desserts
+R0333,Chennai,Biryani
+R0333,Chennai,Continental
+R0334,Chennai,Italian
+R0334,Chennai,Chinese
+R0335,Bengaluru,Chinese
+R0335,Bengaluru,Fast Food
+R0335,Bengaluru,Biryani
+R0336,Mumbai,Fast Food
+R0336,Mumbai,Chinese
+R0337,Kolkata,Biryani
+R0337,Kolkata,South Indian
+R0338,Mumbai,North Indian
+R0339,Kolkata,Chinese
+R0339,Kolkata,Italian
+R0340,Mumbai,Desserts
+R0340,Mumbai,Continental
+R0340,Mumbai,South Indian
+R0341,Mumbai,Italian
+R0342,Pune,Fast Food
+R0342,Pune,South Indian
+R0342,Pune,North Indian
+R0343,Pune,Fast Food
+R0344,Bengaluru,Cafe
+R0344,Bengaluru,South Indian
+R0345,Mumbai,South Indian
+R0345,Mumbai,Italian
+R0345,Mumbai,Desserts
+R0346,Delhi,Mexican
+R0347,Bengaluru,Cafe
+R0348,Kolkata,Cafe
+R0348,Kolkata,Fast Food
+R0348,Kolkata,Mexican
+R0349,Mumbai,Continental
+R0349,Mumbai,Fast Food
+R0350,Hyderabad,Cafe
+R0350,Hyderabad,Fast Food
+R0351,Kolkata,Chinese
+R0351,Kolkata,Desserts
+R0351,Kolkata,North Indian
+R0352,Delhi,Mexican
+R0352,Delhi,South Indian
+R0352,Delhi,North Indian
+R0353,Hyderabad,Fast Food
+R0353,Hyderabad,Mexican
+R0354,Mumbai,Chinese
+R0355,Delhi,Mexican
+R0355,Delhi,North Indian
+R0355,Delhi,Italian
+R0356,Chennai,Continental
+R0356,Chennai,Chinese
+R0356,Chennai,Cafe
+R0357,Ahmedabad,Cafe
+R0357,Ahmedabad,Chinese
+R0358,Pune,Mexican
+R0358,Pune,Fast Food
+R0359,Delhi,Italian
+R0359,Delhi,Continental
+R0360,Delhi,Italian
+R0360,Delhi,Cafe
+R0361,Pune,Mexican
+R0361,Pune,North Indian
+R0361,Pune,Desserts
+R0362,Bengaluru,South Indian
+R0363,Ahmedabad,Desserts
+R0363,Ahmedabad,Fast Food
+R0363,Ahmedabad,Cafe
+R0364,Chennai,Cafe
+R0364,Chennai,Chinese
+R0365,Delhi,Italian
+R0365,Delhi,Fast Food
+R0365,Delhi,North Indian
+R0366,Kolkata,South Indian
+R0367,Delhi,Desserts
+R0367,Delhi,Chinese
+R0368,Bengaluru,Italian
+R0368,Bengaluru,Cafe
+R0368,Bengaluru,Fast Food
+R0369,Chennai,South Indian
+R0370,Kolkata,Italian
+R0371,Mumbai,Chinese
+R0372,Pune,North Indian
+R0373,Ahmedabad,Continental
+R0374,Pune,Mexican
+R0374,Pune,North Indian
+R0375,Delhi,Continental
+R0376,Bengaluru,Italian
+R0377,Delhi,Italian
+R0377,Delhi,Continental
+R0377,Delhi,Cafe
+R0378,Ahmedabad,Fast Food
+R0378,Ahmedabad,Continental
+R0378,Ahmedabad,Chinese
+R0379,Chennai,Cafe
+R0379,Chennai,Continental
+R0379,Chennai,South Indian
+R0380,Delhi,South Indian
+R0380,Delhi,Biryani
+R0380,Delhi,North Indian
+R0381,Kolkata,Italian
+R0381,Kolkata,Desserts
+R0382,Pune,Chinese
+R0382,Pune,South Indian
+R0382,Pune,Italian
+R0383,Hyderabad,South Indian
+R0383,Hyderabad,Cafe
+R0384,Kolkata,Fast Food
+R0385,Pune,Mexican
+R0385,Pune,Italian
+R0385,Pune,Cafe
+R0386,Hyderabad,Desserts
+R0386,Hyderabad,South Indian
+R0386,Hyderabad,Continental
+R0387,Ahmedabad,Chinese
+R0387,Ahmedabad,South Indian
+R0387,Ahmedabad,Continental
+R0388,Bengaluru,Italian
+R0388,Bengaluru,Continental
+R0389,Delhi,Desserts
+R0390,Ahmedabad,Cafe
+R0390,Ahmedabad,North Indian
+R0390,Ahmedabad,Italian
+R0391,Delhi,Mexican
+R0391,Delhi,Continental
+R0391,Delhi,Italian
+R0392,Ahmedabad,Italian
+R0393,Pune,South Indian
+R0394,Hyderabad,Biryani
+R0394,Hyderabad,North Indian
+R0394,Hyderabad,Fast Food
+R0395,Bengaluru,Continental
+R0395,Bengaluru,Fast Food
+R0396,Kolkata,Fast Food
+R0396,Kolkata,Chinese
+R0396,Kolkata,Desserts
+R0397,Pune,Mexican
+R0397,Pune,Biryani
+R0397,Pune,Cafe
+R0398,Kolkata,Fast Food
+R0399,Hyderabad,Fast Food
+R0399,Hyderabad,Cafe
+R0399,Hyderabad,Chinese
+R0400,Chennai,South Indian
+R0400,Chennai,Mexican

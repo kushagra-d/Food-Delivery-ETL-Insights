@@ -1,0 +1,12 @@
+{
+  "restaurants_unmapped_city": 0,
+  "restaurants_missing_cost": 12,
+  "restaurants_clean": 400,
+  "restaurant_cuisine_pairs": 796,
+  "orders_raw": 60400,
+  "orders_duplicates_removed": 400,
+  "orders_invalid_delivery_time": 215,
+  "orders_unknown_restaurant": 0,
+  "orders_missing_rating": 3000,
+  "orders_clean": 60000
+}
